@@ -4,11 +4,8 @@
       
    * HTML
 
-     
-      <figure>
-        <img src="https://img.icons8.com/?size=96&id=20909&format=png" alt="HTML">
-        <figcaption>HTML</figcaption>
-      </figure>
+     ![image](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/b6eea41d-a07a-4b46-9f52-5998a6d2bcc5)
+
           
   
 
