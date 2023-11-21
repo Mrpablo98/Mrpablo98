@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Pablo
-## Tecnologies: 
+## Tecnologies taht i know: 
 ### WEB
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,jquery)](https://skillicons.dev)
@@ -33,4 +33,6 @@
 
 
 
+
 #### 📫 How to reach me pablosandev@gmail.com
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pablo-s%C3%A1nchez-otero-032552234/)
