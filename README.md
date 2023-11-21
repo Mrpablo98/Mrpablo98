@@ -6,8 +6,8 @@
 
      
       <figure>
-        <img src="(https://icons8.com/icon/20909/html-5)" alt="Texto alternativo">
-        <figcaption>Este es el subtítulo</figcaption>
+        <img src="(https://icons8.com/icon/20909/html-5)" alt="HTML">
+        <figcaption>HTML</figcaption>
       </figure>
           
   
