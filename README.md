@@ -2,7 +2,7 @@
 ## Tecnologies: 
 ### *WEB*
       
-   * HTML ![HTML](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/b6eea41d-a07a-4b46-9f52-5998a6d2bcc5)
+   * ![HTML](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/b6eea41d-a07a-4b46-9f52-5998a6d2bcc5) HTML
 
      
 
