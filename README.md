@@ -6,7 +6,7 @@
 
      
       <figure>
-        <img src="https://icons8.com/icon/20909/html-5" alt="HTML">
+        <img src="[https://icons8.com/icon/20909/html-5](https://img.icons8.com/?size=96&id=20909&format=png)" alt="HTML">
         <figcaption>HTML</figcaption>
       </figure>
           
