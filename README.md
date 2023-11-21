@@ -1,10 +1,9 @@
 # 👋 Hi, I’m @Mrpablo98
 ## Tecnologies: 
 ### *WEB*
-      * *HTML*
-         ![image](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/76615eed-6416-4154-8984-7301d34ca161)
-
-        
+      
+   * HTML
+          * ![image](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/76615eed-6416-4154-8984-7301d34ca161)     
    ![image](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/a021313d-a886-4ba5-aee0-4f4608d5d468)   ![image](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/751ed163-c4de-400a-8df5-759c932d476b)   ![image](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/b2006697-bac7-4d88-b9dd-4adccde5aa44)
  ![image](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/4b424831-46dc-49e4-a719-0b85d67fa5fe)
 
