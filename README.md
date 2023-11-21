@@ -8,7 +8,8 @@
 
 ### DATABASE MANAGEMENT
 
-![image](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/9aaf5946-c8b0-4b31-8ed7-56faca86066c) ![image](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/928c4019-6dbf-48b7-a4e8-9c17ad8c773c)
+![image](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/f4d8fc80-e226-4f55-9a85-3d5175083657) ![image](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/9ce2f595-c656-41ca-8eb2-775ad61a1753)
+
 
 
 
