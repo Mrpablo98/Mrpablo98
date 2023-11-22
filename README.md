@@ -6,7 +6,7 @@
           
 ### DATABASE MANAGEMENT
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) ![sqlserver](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/19b45a6b-144c-40da-8870-096b0c4ca9da)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) ![sqlserver](https://github.com/Mrpablo98/Mrpablo98/assets/86930544/19b45a6b-144c-40da-8870-096b0c4ca9da) [![My Skills](https://skillicons.dev/icons?i=hibernate)](https://skillicons.dev) 
 
 ### MOBILE DEVELOPMENT
 
