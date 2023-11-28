@@ -16,10 +16,6 @@
 ### DESKTOP
 [![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet)](https://skillicons.dev)
 
-### APIs
-
-[![My Skills](https://skillicons.dev/icons?i=postman,fastapi)](https://skillicons.dev)
-
 ### VERSION CONTROL
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
