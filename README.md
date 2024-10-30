@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Pablo
-## Tecnologies taht i know: 
+## Tecnologies that i know: 
 ### WEB
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,jquery)](https://skillicons.dev)
