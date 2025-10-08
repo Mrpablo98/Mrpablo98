@@ -2,7 +2,7 @@
 ## Tecnologies that i know: 
 ### WEB
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,jquery,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,jquery)](https://skillicons.dev)
           
 ### DATABASE MANAGEMENT
 
@@ -21,7 +21,7 @@
 
 
 ### OTHERS
-[![My Skills](https://skillicons.dev/icons?i=python,docker, spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,docker,spring)](https://skillicons.dev)
 
 ### IDEs I USE
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,androidstudio)](https://skillicons.dev)
