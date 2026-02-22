@@ -21,7 +21,7 @@
 
 
 ### OTHERS
-[![My Skills](https://skillicons.dev/icons?i=python,docker,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,docker,spring,kubernetes)](https://skillicons.dev)
 
 ### IDEs I USE
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,androidstudio,idea,webstorm)](https://skillicons.dev)
